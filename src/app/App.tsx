@@ -6,7 +6,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Vite + React</h1>
+        <h1>PALADIN</h1>
+        <h2>Strong for a purpose.</h2>
       </div>
     </>
   )
